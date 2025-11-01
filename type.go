@@ -2,9 +2,6 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-// Package gatomic provides wrapper of sync/atomic to support generics.
-// It is useful for enum-like types.
-// Refer to example and sync/atomic documentation for details.
 package gatomic
 
 import (
